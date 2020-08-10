@@ -1,0 +1,1 @@
+INSERT INTO session ( sessionId, userSessionId, expires ) VALUES ( %s, %s, %s )INSERT INTO session ( sessionId, userSessionId, expires ) VALUES ( 15, 5, 2020-08-06 02:08:50 )INSERT INTO session ( sessionId, userSessionId, expires ) VALUES ( 16, 5, 2020-08-06 02:11:08 )
